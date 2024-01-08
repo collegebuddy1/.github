@@ -1,4 +1,4 @@
-## [College Buddy: Your Project Partner in Crime](https://collegebuddy.info/)
+## [College Buddy: We're Your College Bud!](https://collegebuddy.info/)
 
 **‍♀️ A Helping Hand for Stressed Students:**
 
