@@ -1,8 +1,8 @@
-## College Buddy: Your Project Partner in Crime 
+## [College Buddy: Your Project Partner in Crime](https://collegebuddy.info/)
 
 **‍♀️ A Helping Hand for Stressed Students:**
 
-College Buddy is more than just a website; it's your friendly neighborhood project superhero! We're a passionate group of developers and educators who've been there, stressed out and sleep-deprived, drowning in deadlines and project woes. We know the struggle, and we're here to help!
+[College Buddy](https://collegebuddy.info/) is more than just a website; it's your friendly neighborhood project superhero! We're a passionate group of developers and educators who've been there, stressed out and sleep-deprived, drowning in deadlines and project woes. We know the struggle, and we're here to help!
 
 **Join the Buddy Brigade:**
 
